@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Website is live at: https://christiangroselle.github.io/CGWeeklyChallenge01GTBC/
+Website is live at: https://christiangroselle.github.io/CGWeeklyChallenge02GTBC/
 
 Demo of intended look:
 
