@@ -140,6 +140,10 @@
     box-shadow: 3px 3px rgb(90, 90, 90), -1em 0 .4em rgb(70, 70, 70);
   } 
 
+  .contain {
+    object-fit: contain;
+  }
+
   #mainPic {
     width: 400px;
     height: auto;
